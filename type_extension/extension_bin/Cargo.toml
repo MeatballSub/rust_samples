@@ -1,0 +1,7 @@
+[package]
+name = "extension_bin"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+extension_lib = { path = "../extension_lib" }
